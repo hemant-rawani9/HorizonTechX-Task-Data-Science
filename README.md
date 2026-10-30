@@ -1,5 +1,5 @@
-# HorizonTechX_Unemployment-Analysis
-Python-based unemployment data analysis project exploring unemployment trends, COVID-19 impact, regional patterns, and visual insights using Pandas, Matplotlib, and Seaborn.
+# HorizonTechX_Tasks
+Python-based unemployment data analysis project exploring TASK 4: Sales Prediction,TASK 2: Unemployment Analysis  Using Python, COVID-19 impact, regional patterns, and visual insights using Pandas, Matplotlib, and Seaborn.
 
 
 
